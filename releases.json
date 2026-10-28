@@ -1,0 +1,17 @@
+{
+ "app": "PvP技カウンター",
+ "page": "https://pokemon-go-battle-tracker.vercel.app/app",
+ "releases": [
+  {
+   "version": "0.2.24",
+   "date": "2026-10-28T00:37:28+00:00",
+   "size": 56521583,
+   "sha256": "d30f47b88554fde664c46417879179450716bca0ada758b107bcadfdb5204698",
+   "url": "https://github.com/pokemoncardlovelove-stack/pvp-counter/releases/download/v0.2.24/pvp-counter.apk",
+   "notes": [
+    "プレリリース版を公開しました"
+   ],
+   "prerelease": true
+  }
+ ]
+}
