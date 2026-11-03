@@ -3,6 +3,17 @@
  "page": "https://pokemon-go-battle-tracker.vercel.app/app",
  "releases": [
   {
+   "version": "0.2.26",
+   "date": "2026-11-03T14:16:55+00:00",
+   "size": 56537767,
+   "sha256": "65f7a1b7111cc632ac4053ff464cc1ed57e2acec45103517bf3d2d7769b641b4",
+   "url": "https://github.com/pokemoncardlovelove-stack/pvp-counter/releases/download/v0.2.26/pvp-counter.apk",
+   "notes": [
+    "戦績の登録でシャドウだった相手を聞く・最初の画面の下に小さな広告を出す"
+   ],
+   "prerelease": true
+  },
+  {
    "version": "0.2.24",
    "date": "2026-10-28T00:37:28+00:00",
    "size": 56521583,
