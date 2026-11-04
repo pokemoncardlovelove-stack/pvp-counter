@@ -3,6 +3,18 @@
  "page": "https://pokemon-go-battle-tracker.vercel.app/app",
  "releases": [
   {
+   "version": "0.2.29",
+   "date": "2026-11-04T15:13:15+00:00",
+   "size": 56554147,
+   "sha256": "d3f66dfd40ea71be46acdea53b4d0bfddd62f03b309996261c7ff68e8ab20805",
+   "url": "https://github.com/pokemoncardlovelove-stack/pvp-counter/releases/download/v0.2.29/pvp-counter.apk",
+   "notes": [
+    "GONOTE: 戦績にカップを送る・戦績に使うパーティをリーグごとに選べるようにする",
+    "GonoteClient: 分割宣言の型注釈をやめる(コンパイルエラー)"
+   ],
+   "prerelease": true
+  },
+  {
    "version": "0.2.26",
    "date": "2026-11-03T14:16:55+00:00",
    "size": 56537767,
