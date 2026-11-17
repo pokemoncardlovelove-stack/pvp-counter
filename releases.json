@@ -3,6 +3,17 @@
  "page": "https://pokemon-go-battle-tracker.vercel.app/app",
  "releases": [
   {
+   "version": "0.2.38",
+   "date": "2026-11-17T10:13:46+00:00",
+   "size": 56712594,
+   "sha256": "faafd342b40ca9c5ec37e28da6c6061cc49e4e292d68449af85e3842644af3a9",
+   "url": "https://github.com/pokemoncardlovelove-stack/pvp-counter/releases/download/v0.2.38/pvp-counter.apk",
+   "notes": [
+    "個体値チェッカー：メガ・ゲンシの順位が出るように（スーパーメガはレベル52まで）。順位を押すと、そのリーグの個体値ランク TOP100"
+   ],
+   "prerelease": true
+  },
+  {
    "version": "0.2.36",
    "date": "2026-11-17T04:15:12+00:00",
    "size": 56666287,
