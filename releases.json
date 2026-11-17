@@ -3,6 +3,17 @@
  "page": "https://pokemon-go-battle-tracker.vercel.app/app",
  "releases": [
   {
+   "version": "0.2.40",
+   "date": "2026-11-17T15:58:43+00:00",
+   "size": 56761746,
+   "sha256": "38f0c565efb7cf32405196bf2cb862bab345cea3815cb6d27ffc353f9093e255",
+   "url": "https://github.com/pokemoncardlovelove-stack/pvp-counter/releases/download/v0.2.40/pvp-counter.apk",
+   "notes": [
+    "個体値チェッカー：評価の画面から個体値を自動で読み取れるように（👆 ボタン／⚡ 自動。「IV」の窓のいちばん上で切り替え）"
+   ],
+   "prerelease": true
+  },
+  {
    "version": "0.2.38",
    "date": "2026-11-17T10:13:46+00:00",
    "size": 56712594,
