@@ -1,0 +1,17 @@
+{
+ "app": "おさんぽおこうサポート",
+ "page": "https://pokemon-go-battle-tracker.vercel.app/app/osanpo",
+ "releases": [
+  {
+   "version": "0.1.53",
+   "date": "2026-11-24T15:29:30+00:00",
+   "size": 54405119,
+   "sha256": "e005820b34172f2e9ae7f2c89d8fb20a56871a486938199f2a9c30395a6e151a",
+   "url": "https://github.com/pokemoncardlovelove-stack/pvp-counter/releases/download/osanpo-v0.1.53/osanpo.apk",
+   "notes": [
+    "プレリリース版を公開しました"
+   ],
+   "prerelease": true
+  }
+ ]
+}
